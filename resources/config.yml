@@ -1,0 +1,20 @@
+---
+#############################################
+#             VERSION : 1.0.0               #
+#############################################
+#    Plugin Emojis Made By HighestDreams    #
+#############################################
+# You can send me your custom sticker via   #
+# the link so that your sticker model plugin#
+# can be included in the next updates!      #
+# You can also help improve the plugin by   #
+# reporting plug-in bugs                    #
+# (only through GateHub!)!                  #
+#############################################
+
+# This message will send to the player when use emoji (Emoji Activation).
+message: "Emoji has been set"
+# This is a timer for removing emojis from player! (That's so stupid and no one don't want to have an emoji above their head all the time, so we need to remove it after few seconds, that's why there is not any other options for having an emoji always above head!)
+# This timer is per seconds! (for example 30 means 30 seconds and 300 means 5 minutes)
+time: 30
+...

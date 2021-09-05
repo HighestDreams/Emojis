@@ -1,0 +1,23 @@
+---
+#############################################
+#             VERSION : 1.0.0               #
+#############################################
+#    Plugin Emojis Made By HighestDreams    #
+#############################################
+# You can send me your custom sticker via   #
+# the link so that your sticker model plugin#
+# can be included in the next updates!      #
+# You can also help improve the plugin by   #
+# reporting plug-in bugs                    #
+# (only through GateHub!)!                  #
+#############################################
+name: Emojis
+author: HighestDreamsDev
+version: 1.0.0
+main: HighestDreams\Emojis\Main
+api: 3.0.0
+commands:
+  emoji:
+    description: §l§eEmojis §7list
+    permission: emojis.permission
+    default: op
