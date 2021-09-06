@@ -50,8 +50,7 @@ class Main extends PluginBase
     public function onEnable()
     {
         self::$Instance = $this;
-        $this->getLogger()->notice(COLOR::BOLD . COLOR::GREEN . "Plugin " . COLOR::YELLOW . "Emojis " . COLOR::GREEN . "enabling...");
-
+        /* Blame phpstorm */
         Entity::registerEntity(Emoji::class, true);
 
         foreach (['laugh', 'kiss', 'heart_kiss', 'heart_eyes', 'cool', 'cry'] as $geometries) {
