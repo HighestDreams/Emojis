@@ -21,4 +21,8 @@ commands:
   emoji:
     description: §l§eEmojis §7list
     permission: emojis.permission
-    default: op
+
+permissions:
+    emojis.permission:
+      description: "Allows player to use command /emojis"
+      default: op
