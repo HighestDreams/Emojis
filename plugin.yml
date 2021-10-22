@@ -13,10 +13,10 @@
 #############################################
 name: Emojis
 author: HighestDreamsDev
-version: 1.0.0
+version: 1.0.3
 main: HighestDreams\Emojis\Main
 api: 3.0.0
-mcpe-protocol: [361, 388, 389, 390, 407, 408, 448, 465]
+mcpe-protocol: [361, 388, 389, 390, 407, 408, 448, 465, 471]
 commands:
   emoji:
     description: §l§eEmojis §7list
